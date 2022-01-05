@@ -107,10 +107,10 @@ font:
     #family: Droid Sans Mono
     # Font family
     #
-    # Default:
-    #   - (macOS) Menlo
-    #   - (Linux) monospace
-    #   - (Windows) Consolas
+    Default:
+      - (macOS) Menlo
+      - (Linux) monospace
+      - (Windows) Consolas
     family: "Source Code Pro"
 
     # The `style` can be specified to pick a specific face.
